@@ -2,7 +2,7 @@
 
 #### 项目介绍
 swagger-bootstrap-ui对spring swagger注解进行解析并形成一个java的doc接口文档
-源码:https://github.com/xiaoymin/Swagger-Bootstrap-UI
+网址:https://github.com/xiaoymin/Swagger-Bootstrap-UI
 
 #### 软件架构
 软件架构说明
